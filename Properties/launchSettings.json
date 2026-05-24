@@ -29,6 +29,8 @@
     },
     "IIS Express": {
       "commandName": "IISExpress",
+      "windowsAuthentication": true,
+      "anonymousAuthentication": false,
       "launchBrowser": true,
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
